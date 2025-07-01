@@ -23,7 +23,7 @@ I'm currently focused on expanding my capabilities across the full stack and in 
     * **Front-end:** Perfecting **HTML5**, **CSS3**, **JavaScript (ES6+)**, and deeply utilizing **React** for building modern, interactive user interfaces. I'm also exploring **TypeScript** for enhanced code quality and scalability in larger web projects.
     * **Back-end (Python):** Mastering **Python** for server-side development, likely exploring frameworks like **Django** or **Flask** for robust web APIs and data management.
 * **Android App Development:** Building native Android applications primarily using **Java** (and moving towards **Kotlin** for modern Android development practices, as it's the officially preferred language).
-* **Game Development:** Deep diving into [e.g., **Unity** / **Godot** / **Unreal Engine 5**] for game creation, mastering its tools for scripting, animation, physics, and rendering.
+* **Game Development:** Deep diving into  **Unity** and **Unreal Engine 5** for game creation, mastering its tools for scripting, animation, physics, and rendering.
 * **Overall Principles:** Focusing on software architecture, design patterns, and efficient database interactions (both SQL and NoSQL).
 
 ---
@@ -34,7 +34,7 @@ I'm currently focused on expanding my capabilities across the full stack and in 
 * **Front-end Frameworks/Libraries:** React
 * **Android Development:** Android SDK, Java (and learning Kotlin)
 * **Web Development Concepts:** Responsive Design, RESTful APIs, Version Control (Git)
-* **Other Tools/Concepts:** [Mention any other relevant tools like Docker, Git, VS Code, specific databases if you're comfortable with them, e.g., MySQL, PostgreSQL, MongoDB, etc.]
+
 
 ---
 
