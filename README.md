@@ -44,7 +44,7 @@ I'm currently focused on expanding my capabilities across the full stack and in 
 
 I'm eager to connect with fellow developers and passionate individuals for:
 
-* **Full-Stack Web Projects:** Particularly interested in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js - aligning with your React/JS skills) or Python-based backends (Django/Flask).
+* **Full-Stack Web Projects:** Particularly interested in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) or Python-based backends (Django/Flask).
 * **Innovative Android Applications:** Collaborating on new mobile app ideas, especially those focusing on utility, productivity, or creative solutions.
 * **Indie Game Development:** Joining small, enthusiastic teams to develop unique and engaging indie games, primarily contributing to programming but always open to learning and assisting in other areas.
 * **Open-Source Contributions:** Contributing to open-source projects across web, mobile, or game development.
